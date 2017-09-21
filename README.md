@@ -1,30 +1,31 @@
 # RoboPackage
 function including: 
-connect.and.query
-GET.value.lookup
-GET.n.until
-GET.column
-GET.rt.dateRange
-GET.rt
-excludeSheet
-applyPreference
-check.and.print
-check.dateRange
-check.valid.tickers
-as.Date.n
-SD.year2day
-SD.day2year
-rt.quater2year
-rt.year2quater
-percent
-YTM2adjust_rt
-shorten.rts
-adjusted_rt2projected_rt
-cov.period
-cov.matrix2
-opti.wets.donlp2
-opti.wets
-global.bounds
-notebook.declare
-compound
-check.if.rebalance
+
+	connect.and.query
+	GET.value.lookup
+	GET.n.until
+	GET.column
+	GET.rt.dateRange
+	GET.rt
+	excludeSheet
+	applyPreference
+	check.and.print
+	check.dateRange
+	check.valid.tickers
+	as.Date.n
+	SD.year2day
+	SD.day2year
+	rt.quater2year
+	rt.year2quater
+	percent
+	YTM2adjust_rt
+	shorten.rts
+	adjusted_rt2projected_rt
+	cov.period
+	cov.matrix2
+	opti.wets.donlp2
+	opti.wets
+	global.bounds
+	notebook.declare
+	compound
+	check.if.rebalance
